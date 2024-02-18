@@ -1,1 +1,1 @@
-En este primer ejercicio se aran todos los cambios directamente de Git Bash
+En este primer ejercicio se aran todos los cambios directamente de Git Bash, y con ayuda del video en freeCodeCamp Español 
